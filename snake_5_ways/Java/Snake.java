@@ -125,7 +125,6 @@ class Window extends Canvas implements KeyListener {
         snakeBody.add( new Point2(x, y) );
     }
 
-    // (Sara, this is polymorphism)
     // Two versions of placeFood with different parameters -> different behaviors
 
     // Place food at given loc (no checks)
@@ -155,7 +154,7 @@ class Window extends Canvas implements KeyListener {
             return;
         }
 
-        hasEaten = false;   // Reset snake 'satiation' amount
+        hasEaten = false;   // Reset snake 'satiation' flag
 
         int newHeadX = (snakeHead.x + snakeDirection.x);    // get next head pos
         int newHeadY = (snakeHead.y + snakeDirection.y);

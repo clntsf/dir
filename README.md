@@ -21,6 +21,9 @@ These are arranged categorically, not in chronological order. I have tried, howe
     - #### [Rust](https://github.com/ctsf1/rust-snake) (With Glutin, Piston2d and OpenGL)
         - A while passed before I picked up any more new languages, mainly because I was busy with the beginnings of developing what would become [spl_widgets](). At this stage, I had become acquainted with Github, so most of my large projects were uploaded there, this one included. Learning rust was a very new experience given its unique nature (namely, its use of a borrow-checker) but a very rewarding one as well, as I was forced to seriously consider my actions in a way even beyond what I was used to in C++. The amount of documentation (cargo's built-in docs feature, specifically) was a massive help, though, and with it I made my most polished version yet using Piston2d, Glutin and OpenGL to display the window. (May 2022)
 
-    - #### HTML/JS (with JS Canvas)
+    - #### [HTML/CSS/JS](https://github.com/ctsf1/canvas_games) (with JS Canvas)
+        - I had been experimenting with HTML and CSS for a while, and had written little curiosities in JS (like one to generate and style a Minesweeper grid), but had never really combined the two. JS's tools for drawing to HTML Canvas Elements are quite well-documented, and given much more lax nature of JS (comparatively) building snake was a much more relaxed experience. Looking for a greater challenge I also tried to implement a version of the popular web game 2048, the logic for which is quite involved and provided a good stimulus for me to improve my grasp of control flow. (June/July 2022)
 
-    - #### Java (with )
+            _I've created a Github Pages for this repository to allow for easy access without downloads. snake can be played [here](https://ctsf1.github.io/canvas_games/snake/snake.html), and 2048 [here](https://ctsf1.github.io/canvas_games/2048/2048.html)_
+
+    - #### Java (with awt and swing)
