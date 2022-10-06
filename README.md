@@ -30,4 +30,4 @@ These are arranged categorically, not in chronological order. I have tried, howe
         - More recently I've been experimenting with Java, partly in an attempt to fill in some OOP concepts I missed out on in Python and C++. The Object Oriented style was foreign to me initially, having come from at least partially functional programming languages, but I completed a series of learning exercises covering different concepts and developed the confidence to tackle the project of making Snake. With the assistance of the (thankfully) well-documented modules swing and AWT to render the screen, and implementing the KeyListener class to process user input, this version is arguably the most refined so far.
         (June, September 2022)
 
-            _The linked folder contains a subfolder 'cls' with .class files able to be executed (after download) with "cd cls & java Snake"_
+            _The linked folder contains a subfolder 'cls' with .class files able to be executed (after download) with "cd cls && java Snake"_
