@@ -61,10 +61,26 @@ These are arranged categorically, not in chronological order. I have tried, howe
             _The linked folder contains a subfolder 'cls' with .class files able to be executed (after download) with "cd cls && java Snake"_
 
  - ### School Python Projects
-    Throughout my time in Leaving Cert Computer Science I have completed several projects (called Applied Learning Tasks, or ALTs) in Python, both individually and collaboratively, each with a different focus. As most* of these have a comprehensive README along with them I won't explain them in redundant detail, but a link to and brief summary of each is attached
+    Throughout my time in Leaving Cert Computer Science I have completed several projects (called Applied Learning Tasks, or ALTs) in Python, both individually and collaboratively, each with a different focus. As most* of these have a comprehensive README along with them I won't explain them in redundant detail, but a brief summary of each is attached along with a link (click the title) to its repository
 
-    <small><i>*alt3_lotto and alt3_coinflip do not have README files as the project brief only requested one of the three tasks be completed, and I did the other two mostly for some practice. I will describe these along with alt3 (the project I chose)</i></small>
+    The complexity of these projects started low as the class is intended to be introductory, but later projects were quite demanding in terms of the technical requirements attached and provided for a good challenge.
+
+    <small><i>*alt3_lotto and alt3_coinflip do not have README files as the project brief only requested one of the three tasks be completed, and I did the other two mostly for some practice. I will describe these along with alt3_diceroll (the project I chose)</i></small>
 
     - #### [ALT4](https://github.com/ctsf1/halloween_lights): Hardware interfacing
+        - I worked in a group of three to interface with a BBC MicroBit using Python and the MicroPython module and design a halloween-themed artefact - Our group chose to program a sound/proximity-activated strip of lights that fluctuated between shades of orange
+
     - #### [ALT2](https://github.com/ctsf1/data_sci): Data Visualisation and Analysis
-    - #### [ALT3](https://github.com/ctsf1/alt3): Modelling and Simulation
+        - We were tasked to analyse a given dataset on road safety test data on a metric of our choice. We had to strip and clean data from a set of excel sheets, visualise it in a chosen graphical format, and analyse the graph by giving insights/inferences into what each part of it signified.
+
+    - #### [ALT3](https://github.com/ctsf1/alt3_diceroll): Modelling and Simulation
+        - We were posed a set of three simulation problems, of which to chose one:
+            - Simulate the odds of a given combination arising in a fair _n_-coin toss
+            ([alt3_coinflip](https://github.com/ctsf1/alt3_coinflip))
+
+            - Simulate the odds of rolling a given sum with _x_ fair _n_-sided dice
+            ([alt3_diceroll](https://github.com/ctsf1/alt3_diceroll)) 
+            <small>_(same link as title)_</small>
+
+            - Simulate the odds of "winning" a ball-and-drum style lottery given the size of the drum and number of balls on a lottery ticket
+            ([alt3_lotto](https://github.com/ctsf1/alt3_lotto))
