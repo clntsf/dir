@@ -65,15 +65,15 @@ Since 2020 I have been working at the
 
     The scripts currently included in *spl_widgets* are as follows:
 
-    - #### [tuner](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/tuner.py)
+    - #### Tuner
     
-        my original project in the lab, now two years on. It now has an improved, feature-complete UI, along with a companion script [*batch_tune.py*](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/batch_tune.py) which allows for rapid bulk-volume tuning using parameter configuration files.
+        My original project in the lab, now two years on. It now has an improved, feature-complete UI, along with a companion script [*batch_tune.py*](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/batch_tune.py) which allows for rapid bulk-volume tuning using parameter configuration files.
 
-        (_tuner.py_ contains the user interface, [_tune_freq.py_](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/tune_freq.py) contains the main body of the tuning transformation, and [_misc_util.py_](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/misc_util.py) contains various helper functions for both)
+        (Multiple files make up the entirety of Tuner: [_tuner.py_](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/tuner.py) contains the user interface, [_tune_freq.py_](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/tune_freq.py) contains the main body of the tuning transformation, and [_misc_util.py_](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/misc_util.py) contains various helper functions for both)
 
     - #### [stk-swx](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/stk_swx.py)
 
-        The file conversion process I wrote to eliminate the need to manually convert .stk files (outputted by SynthWorks) to tunable .swx files to be played in MATLAB
+        The file conversion process I wrote to eliminate the need to manually convert .stk files (outputted by SynthWorks) to tunable .swx files to be played in MATLAB.
 
     - #### [gorilla-clean](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/gorilla_clean.py)
 
@@ -81,7 +81,7 @@ Since 2020 I have been working at the
 
     - #### [jukemake](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/jukemake.py)
 
-        A helper script to take a series of timings and a directory of .wav files specified by the user and convert it to a parameter file able to be interpreted by the MATLAB routine Jukebox, used for the preparation of a testing condition of a set of samples
+        A helper script to take a series of timings and a directory of .wav files specified by the user and convert it to a parameter file able to be interpreted by the MATLAB routine Jukebox, used for the preparation of a testing condition of a set of samples.
 
 ---
 
@@ -93,7 +93,7 @@ It's become somewhat of a ritual for me to write a Snake game in languages I pic
     - My first major project in Computer Science, undertaken in winter 2020. Before this I'd never dabbled in graphics in any language, so the Pygame module was a massive help in making the process beginner-friendly. There are definitely some sharp corners, but it carries a lot of nostalgia for me and I'm quite proud of it, especially considering it was the first of its kind. (November 2020)
 
 - #### [C++](/snake_5_ways/cpp) (with ncurses)
-    - After getting comfortable with basic CS concepts in Python, I took the leap of exploring lower-level languages. While C was a bit too daunting for me at the time, C++ had a lot more beginner-friendly documentation and tutorials on sites like stackoverflow so I worked my way up to a text-based version of the game, using the ncurses Window class and its methods to print colored text to the terminal to display the game window (September 2021)
+    - After getting comfortable with basic CS concepts in Python, I took the leap of exploring lower-level languages. While C was a bit too daunting for me at the time, C++ had a lot more beginner-friendly documentation and tutorials on sites like stackoverflow so I worked my way up to a text-based version of the game, using the ncurses Window class and its methods to print colored text to the terminal to display the game window. (September 2021)
 
         (_as a warning to any potential downloaders, a mistake exists in the source (in the creation of a local file to save user highscore) which creates a new file in the user's CWD when the script is called instead of finding the one in a directory relative to the script. this doesn't affect the performance of the game in any way, but creates annoying clutter_)
 
@@ -114,7 +114,7 @@ It's become somewhat of a ritual for me to write a Snake game in languages I pic
 ---
 
 ### School Python Projects
-Throughout my time in Leaving Cert Computer Science I have completed several projects (called Applied Learning Tasks, or ALTs) in Python, both individually and collaboratively, each with a different focus. As most* of these have a comprehensive README along with them I won't explain them in redundant detail, but a brief summary of each is attached along with a link (click the title) to its repository
+Throughout my time in Leaving Cert Computer Science I have completed several projects (called Applied Learning Tasks, or ALTs) in Python, both individually and collaboratively, each with a different focus. As most* of these have a comprehensive README along with them I won't explain them in redundant detail, but a brief summary of each is attached along with a link (click the title) to its repository.
 
 The complexity of these projects started low as the class is intended to be introductory, but later projects were quite demanding in terms of the technical requirements attached and provided for a good challenge.
 
