@@ -65,13 +65,23 @@ Since 2020 I have been working at the
 
     The scripts currently included in *spl_widgets* are as follows:
 
-    - #### [Tuner](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/tuner.py)
+    - #### [tuner](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/tuner.py)
     
         my original project in the lab, now two years on. It now has an improved, feature-complete UI, along with a companion script [*batch_tune.py*](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/batch_tune.py) which allows for rapid bulk-volume tuning using parameter configuration files.
+
+        (_tuner.py_ contains the user interface, [_tune_freq.py_](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/tune_freq.py) contains the main body of the tuning transformation, and [_misc_util.py_](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/misc_util.py) contains various helper functions for both)
 
     - #### [stk-swx](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/stk_swx.py)
 
         The file conversion process I wrote to eliminate the need to manually convert .stk files (outputted by SynthWorks) to tunable .swx files to be played in MATLAB
+
+    - #### [gorilla-clean](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/gorilla_clean.py)
+
+        A script to parse and clean subject data from the Gorilla online subject testing service (returned as a .zip archive of multiple excel files). Updated to allow for the creation and modification of a configuration file so a user can adapt the parser for the data returned by the specific task without having to edit the source.
+
+    - #### [jukemake](https://github.com/ctsf1/spl_widgets/tree/master/src/spl_widgets/jukemake.py)
+
+        A helper script to take a series of timings and a directory of .wav files specified by the user and convert it to a parameter file able to be interpreted by the MATLAB routine Jukebox, used for the preparation of a testing condition of a set of samples
 
 ---
 
