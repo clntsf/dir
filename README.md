@@ -61,7 +61,7 @@ Since 2020 I have been working at the
 
 - #### Packaging
 
-    By late 2021 the various scripts I had developed had begun to become cumbersome to continuously update and maintain remotely, and the slapdash shell scripts I had written to remedy this were too unwieldy to be a permanent solution, so I began to look into packaging python modules. I created the first version of the [spl_widgets](https://pypi.org/project/spl-widgets/) package in November of 2021, and as I grew more comfortable using and updating packages I updated a [github repository](https://github.com/ctsf1/spl_widgets) with its contents in parallel, and continued to add functionality, as long as any scripts I developed for use in the lab.
+    By late 2021 the various scripts I had developed had become cumbersome to continuously update and maintain remotely, and the slapdash shell scripts I had written to remedy this were too unwieldy to be a permanent solution, so I began to look into packaging python modules. I created the first version of the [spl_widgets](https://pypi.org/project/spl-widgets/) package in November of 2021, and as I grew more comfortable using and updating packages I updated a [github repository](https://github.com/ctsf1/spl_widgets) with its contents in parallel, and continued to add functionality, as long as any scripts I developed for use in the lab.
 
     The scripts currently included in *spl_widgets* are as follows:
 
