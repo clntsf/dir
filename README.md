@@ -11,7 +11,7 @@ A landing page of sorts, with a directory and overview portfolio-style of the pr
 
     1. [Initial Specifications and Context](#initial-specifications-and-context)
     2. [Early Development](#early-development)
-    3. Packaging
+    3. [Packaging](#packaging)
         1. [tuner](#tuner)
         2. [stk-swx](#stk-swx)
         3. [gorilla-clean](#gorilla-clean)
@@ -39,7 +39,7 @@ These are arranged categorically, not in chronological order. I have tried, howe
 
 ### Lab work: the [*spl_widgets*](https://pypi.org/project/spl-widgets/) package
 
-Since 2020 I have been working at the 
+Since the summer of 2019 I have been working at the Barnard Speech Perception Laboratory in various capacities, most recently in developing a series of in-house tools to enable (or streamline) the use of a variety of common lab tasks as well as experimental transformations required for the testing of research hypotheses. A summary of these modules and a brief timeline of the work I have done is as follows:
 
  - #### Initial specifications and context
 
