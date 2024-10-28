@@ -113,10 +113,10 @@ It's become somewhat of a ritual for me to write a Snake game in languages I pic
 
 ---
 
-### School Python Projects
-Throughout my time in Leaving Cert Computer Science I have completed several projects (called Applied Learning Tasks, or ALTs) in Python, both individually and collaboratively, each with a different focus. As most* of these have a comprehensive README along with them I won't explain them in redundant detail, but a brief summary of each is attached along with a link (click the title) to its repository.
+### Secondary School Python Projects
+Throughout my time in Leaving Cert Computer Science I completed several projects (called Applied Learning Tasks, or ALTs) in Python, both individually and collaboratively, each with a different focus. As most* of these have a comprehensive README along with them I won't explain them in redundant detail, but a brief summary of each is attached along with a link (click the title) to its repository.
 
-The complexity of these projects started low as the class is intended to be introductory, but later projects were quite demanding in terms of the technical requirements attached and provided for a good challenge.
+The complexity of these projects started low as the class was intended to be introductory, but later projects were quite demanding in terms of the technical requirements attached and provided for a good challenge.
 
 <small><i>*alt3_lotto and alt3_coinflip do not have README files as the project brief only requested one of the three tasks be completed, and I did the other two mostly for some practice. I will describe these along with alt3_diceroll (the project I chose)</i></small>
 
@@ -137,3 +137,6 @@ The complexity of these projects started low as the class is intended to be intr
 
         - Simulate the odds of "winning" a ball-and-drum style lottery given the size of the drum and number of balls on a lottery ticket
         ([alt3_lotto](https://github.com/ctsf1/alt3_lotto))
+
+- #### [Final Project](): Modelling and Simulation, Data Visualisation and Analysis
+    - As a culmination of our efforts through the entirety of leaving cycle we were tasked with creating a working simulation of any popular game, along with a set of plausible, engaging agents with varying behaviors, to simulate human-human, human-computer, and computer-computer play and analyze trends in data. The project in its full form, along with all of the source code, has been uploaded c.2024 (Completed May 2023)
