@@ -31,6 +31,8 @@ A landing page of sorts, with a directory and overview portfolio-style of the pr
     2. [ALT2: Data Visualisation and analysis](#alt2-data-visualisation-and-analysis)
     3. [ALT3: Modelling and Simulation](#alt3-modelling-and-simulation)
 
+    4. [Final Project: Modelling and Simulation, Data Visualisation and Analysis](#final-project-modelling-and-simulation-data-visualisation-and-analysis)
+
 ---
 
 ## Projects
@@ -138,5 +140,7 @@ The complexity of these projects started low as the class was intended to be int
         - Simulate the odds of "winning" a ball-and-drum style lottery given the size of the drum and number of balls on a lottery ticket
         ([alt3_lotto](https://github.com/ctsf1/alt3_lotto))
 
-- #### [Final Project](): Modelling and Simulation, Data Visualisation and Analysis
+- #### [Final Project](https://drive.google.com/drive/folders/1hKhcKtcCtVsWj9Fd2tYc8wSVYH9nMFKq?usp=sharing): Modelling and Simulation, Data Visualisation and Analysis
     - As a culmination of our efforts through the entirety of leaving cycle we were tasked with creating a working simulation of any popular game, along with a set of plausible, engaging agents with varying behaviors, to simulate human-human, human-computer, and computer-computer play and analyze trends in data. The project in its full form, along with all of the source code, has been uploaded c.2024 (Completed May 2023)
+
+      *NB: as a result of large filesizes in the report, namely the video and the game database, it has been put in a repository, but uploaded to Google Drive instead of GitHub*
