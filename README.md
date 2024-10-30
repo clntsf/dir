@@ -143,4 +143,8 @@ The complexity of these projects started low as the class was intended to be int
 - #### [Final Project](https://drive.google.com/drive/folders/1hKhcKtcCtVsWj9Fd2tYc8wSVYH9nMFKq?usp=sharing): Modelling and Simulation, Data Visualisation and Analysis
     - As a culmination of our efforts through the entirety of leaving cycle we were tasked with creating a working simulation of any popular game, along with a set of plausible, engaging agents with varying behaviors, to simulate human-human, human-computer, and computer-computer play and analyze trends in data. The project in its full form, along with all of the source code, has been uploaded c.2024 (Completed May 2023)
 
+      The source files for the game, simulation, and data recording/analysis themselves (including design rationale files and the game database) can be found in [/Artefact](https://drive.google.com/drive/folders/1XR2uH_gtla_SV5IxVfs3SVnjIN2qHjPM?usp=sharing)
+      
+      The report video, written report, and images pertaining to the report can be found in [/Report](https://drive.google.com/drive/folders/1F4FfjnCjh59C_CCe9udjumuEzElXl3mH?usp=sharing) (As index.html does not properly render in Drive, the original Google Doc has been linked in the folder accessible at [/Report/LC CS Coursework Report.docx](https://docs.google.com/document/d/1MdzJT3dpuFfAqf5W8anItpdBP3JxBinn/edit?usp=sharing&ouid=113079864281071390797&rtpof=true&sd=true))
+
       *NB: as a result of large filesizes in the report, namely the video and the game database, it has been put in a repository, but uploaded to Google Drive instead of GitHub*
